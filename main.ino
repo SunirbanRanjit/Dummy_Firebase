@@ -7,8 +7,8 @@
 
 #define FIREBASE_HOST " " //Without http:// or https:// schemes
 #define FIREBASE_AUTH " "
-#define WIFI_SSID " "
-#define WIFI_PASSWORD " "
+#define WIFI_SSID "211"
+#define WIFI_PASSWORD "12345678"
 
 int led1 = D2;  
 int led2 = D3;  
